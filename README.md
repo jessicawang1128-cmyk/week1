@@ -20,4 +20,4 @@ Full instructions: <https://yoonismo.github.io/causal-computing/week1.html>
 
 ## Name
 
-(write your name here in Lab 4)
+Jessica Wang
